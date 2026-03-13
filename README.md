@@ -1,7 +1,7 @@
 # Hello, welcome to my profile 👋
 ## My name is Gabriel Masson Rosa and my nickname is "Bebows"!
 
-<img loading="lazy" src="https://media.tenor.com/fr1XvaZZXVcAAAAM/red-tree.gif"/>
+<img loading="lazy" src="https://media.tenor.com/fr1XvaZZXVcAAAAM/red-tree.gif" width="420" height="318"/>
 
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Basic_red_dot.png" width="5" height="5"/> I'm from Brazil 🇧🇷
 
