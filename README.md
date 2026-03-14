@@ -3,8 +3,8 @@
 </div>
 <h1></h1>
 <div align="center">
-  <a href = "mailto:gabrielmrosa@live.com"><img loading="lazy" src="EmailGitHub.png" width="50" height="50" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-m-rosa/" target="_blank"><img loading="lazy" src="LinkedInGitHub.png" width="50" height="50" target="_blank"></a>   
+  <a href = "mailto:gabrielmrosa@live.com"><img loading="lazy" src="EmailGitHub.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-m-rosa/" target="_blank"><img loading="lazy" src="LinkednGitHub.png" target="_blank"></a>   
 </div><br/><br/>
 
 <h1 align="center">🔴About me</h1>
