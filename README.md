@@ -1,33 +1,37 @@
-# Hello, welcome to my profile 👋
-## My name is Gabriel Masson Rosa and my nickname is "Bebows"!
-
-<img loading="lazy" src="https://media.tenor.com/fr1XvaZZXVcAAAAM/red-tree.gif" width="420" height="318"/>
-
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Basic_red_dot.png" width="5" height="5"/> I'm from Brazil 🇧🇷
-
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Basic_red_dot.png" width="5" height="5"/> I'm currently studying System Analisys and Development on Fatec
-
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Basic_red_dot.png" width="5" height="5"/> I'm currently learning about Flutter Framework (also Dart), Python and database with SQL
-  
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Basic_red_dot.png" width="5" height="5"/> I know a bit of C/C++, Javascript and Java too
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Basic_red_dot.png" width="5" height="5"/> I have a Linux Mint Laptop and I will migrate to Ubuntu in my main pc on the future
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>
-
-<div>
-<a href="https://github.com/gabrielbr4000">
-<img loading="lazy" width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbr4000&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" width="350em" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbr4000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img loading="lazy" src="BannerGitHub.gif"/>
 </div>
+<h1></h1>
+<div align="center">
+  <a href = "mailto:gabrielmrosa@live.com"><img loading="lazy" src="OutlookGitHub.png" width="50" height="50" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-m-rosa/" target="_blank"><img loading="lazy" src="LinkedInGitHub.png" width="50" height="50" target="_blank"></a>   
+</div><br/><br/>
 
-## Contact me:
+<h1 align="center">🔴About me</h1>
+
 <div>
-<a href = "mailto:gabrielmrosa@live.com"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/1280px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png" width="40" height="40" target="_blank"></a>
-  |  
-<a href="https://www.linkedin.com/in/gabriel-m-rosa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <img loading="lazy" align="right" src="BackgroundGitHub2.gif" width="450"/>
+  Hello my name is Gabriel Masson Rosa and I'm a student from Brazil. I enjoy searching about systems and how programs work on the background. I'm Currently studying System Analisys and Development on Fatec and also learning about: <br/><br/>
+  <div align="center">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/>Database with Postgresql<br/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30"/>Flutter Framework (Dart)<br/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>Python<br/>
+  </div>
+</div><br/><br/><br/>
+
+<h1></h1>
+
+<h1 align="center">🔴Technologies:</h1>
+<div align="center">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"//>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40" height="40"/>
+</div><br/><br/>
+
+<h1></h1>
+
+<div align="center">
+  <a href="https://github.com/gabrielbr4000">
+  <img loading="lazy" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbr4000&layout=compact&langs_count=7&theme=shadow_red"/>
+  <img loading="lazy" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbr4000&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
 </div>
